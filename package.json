@@ -11,7 +11,7 @@
   "author": "kimu_shu",
   "license": "MIT",
   "dependencies": {
-    "nios2-sim": "^0.1.6"
+    "nios2-sim": "^0.1.7"
   },
   "devDependencies": {
     "@types/node": "^8.0.2"
