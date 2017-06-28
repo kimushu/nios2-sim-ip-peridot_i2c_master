@@ -1,5 +1,5 @@
 {
-  "name": "nios2-sim-ip-peridot_i2c_master",
+  "name": "@nios2-sim-ip/peridot_i2c_master",
   "version": "16.1.0",
   "description": "Simulation module for peridot_i2c_master",
   "main": "out/src/index.js",
